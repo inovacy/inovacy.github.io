@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Inovacy</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://inovacy.github.io/"/>
+  <updated>2019-01-07T06:50:37.000Z</updated>
+  <id>http://inovacy.github.io/</id>
+  
+  <author>
+    <name>Rudolf Potucek</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Servus Credit Union</title>
+    <link href="http://inovacy.github.io/2017/06/15/servus/"/>
+    <id>http://inovacy.github.io/2017/06/15/servus/</id>
+    <published>2017-06-15T06:00:00.000Z</published>
+    <updated>2019-01-07T06:50:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>At Servus Credit Union we worked closely with the CIO and IT VPs to define and implement a DevOps transformation plan for both software development and IT operations. To achieve this:</p><ul><li><p>We staged the introduction of cross-functional development teams using a fast proof-of-concept approach, capturing and communicating clear learnings for the organization.</p></li><li><p>We took into account the end to end workflow from ideation to implementation and defined appropriate roles, responsibilities, and interfaces to ensure smooth flow of work and a decrease in work duplication.</p></li><li><p>We introduced scrum as the primary agile technique for the IT organization. As part of this we identified scrum masters and delivered extensive training and coaching to both scrum masters and scrum team members. As part of this we also identified gaps in story writing and story splitting skills and delivered targeted training to bridge the gaps.</p></li><li><p>We provided technical training and coaching core devops components such as the creation of build pipelines from version control all the way through to production deployment. We worked closely with IT security and IT change control to ensure that all of these changes maintained or improved existing processes while also working closely with developers and testers to ensure that the new processes had minimal overhead.</p></li><li><p>Throughout the process we paid close attention to the organizational changes required at all levels to ensure smooth progression along the transformation leading to overall positive reception of the changes across the organization.</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;At Servus Credit Union we worked closely with the CIO and IT VPs to define and implement a DevOps transformation plan for both software d
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
