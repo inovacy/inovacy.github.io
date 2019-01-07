@@ -7,13 +7,14 @@ title: Inovacy
 subtitle:
 description:
 keywords:
-author: Rudolf Potucek
+author: Rudolf Potucek / Inovacy Consulting Inc.
 language: default
 timezone: America/Edmonton
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://inovacy.github.io
+# url: http://inovacy.github.io
+url: http://inovacy.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

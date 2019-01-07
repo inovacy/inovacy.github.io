@@ -3,4 +3,4 @@ Disallow: /tags/
 Disallow: /categories/
 Disallow: /archives/
 
-Sitemap: https://inovacy.github.io/sitemap.xml
+Sitemap: https://inovacy.com/sitemap.xml
